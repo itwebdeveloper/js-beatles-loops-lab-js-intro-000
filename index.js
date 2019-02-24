@@ -21,5 +21,5 @@ function iLoveTheBeatles(num) {
     array[counter] = "I love the Beatles!"
     counter++;
   } while (counter < num && num < 15)
-  retunr array;
+  return array;
 }
