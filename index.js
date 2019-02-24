@@ -20,5 +20,5 @@ function iLoveTheBeatles(num) {
   do {
     array[counter] = "I love the Beatles!"
     counter++;
-  } while (counter < num && counter < 15)
+  } while (counter < num && num < 15)
 }
